@@ -997,11 +997,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\WorkSpace\\Xamarin\\ToDoApp\\ToDoApp\\ToDoApp.iOS\\ToDoApp.iOS.csproj",
+      "projectUniqueName": "C:\\WorkSpace\\C#\\Xamarin\\ToDoApp\\ToDoApp\\ToDoApp.iOS\\ToDoApp.iOS.csproj",
       "projectName": "ToDoApp.iOS",
-      "projectPath": "C:\\WorkSpace\\Xamarin\\ToDoApp\\ToDoApp\\ToDoApp.iOS\\ToDoApp.iOS.csproj",
+      "projectPath": "C:\\WorkSpace\\C#\\Xamarin\\ToDoApp\\ToDoApp\\ToDoApp.iOS\\ToDoApp.iOS.csproj",
       "packagesPath": "C:\\Users\\manuel\\.nuget\\packages\\",
-      "outputPath": "C:\\WorkSpace\\Xamarin\\ToDoApp\\ToDoApp\\ToDoApp.iOS\\obj\\",
+      "outputPath": "C:\\WorkSpace\\C#\\Xamarin\\ToDoApp\\ToDoApp\\ToDoApp.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1023,8 +1023,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\WorkSpace\\Xamarin\\ToDoApp\\ToDoApp\\ToDoApp\\ToDoApp.csproj": {
-              "projectPath": "C:\\WorkSpace\\Xamarin\\ToDoApp\\ToDoApp\\ToDoApp\\ToDoApp.csproj"
+            "C:\\WorkSpace\\C#\\Xamarin\\ToDoApp\\ToDoApp\\ToDoApp\\ToDoApp.csproj": {
+              "projectPath": "C:\\WorkSpace\\C#\\Xamarin\\ToDoApp\\ToDoApp\\ToDoApp\\ToDoApp.csproj"
             }
           }
         }

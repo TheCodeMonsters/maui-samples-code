@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\WorkSpace\\Xamarin\\ToDoApp\\ToDoApp\\ToDoApp.Android\\ToDoApp.Android.csproj": {}
+    "C:\\WorkSpace\\C#\\Xamarin\\ToDoApp\\ToDoApp\\ToDoApp.Android\\ToDoApp.Android.csproj": {}
   },
   "projects": {
-    "C:\\WorkSpace\\Xamarin\\ToDoApp\\ToDoApp\\ToDoApp.Android\\ToDoApp.Android.csproj": {
+    "C:\\WorkSpace\\C#\\Xamarin\\ToDoApp\\ToDoApp\\ToDoApp.Android\\ToDoApp.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\WorkSpace\\Xamarin\\ToDoApp\\ToDoApp\\ToDoApp.Android\\ToDoApp.Android.csproj",
+        "projectUniqueName": "C:\\WorkSpace\\C#\\Xamarin\\ToDoApp\\ToDoApp\\ToDoApp.Android\\ToDoApp.Android.csproj",
         "projectName": "ToDoApp.Android",
-        "projectPath": "C:\\WorkSpace\\Xamarin\\ToDoApp\\ToDoApp\\ToDoApp.Android\\ToDoApp.Android.csproj",
+        "projectPath": "C:\\WorkSpace\\C#\\Xamarin\\ToDoApp\\ToDoApp\\ToDoApp.Android\\ToDoApp.Android.csproj",
         "packagesPath": "C:\\Users\\manuel\\.nuget\\packages\\",
-        "outputPath": "C:\\WorkSpace\\Xamarin\\ToDoApp\\ToDoApp\\ToDoApp.Android\\obj\\",
+        "outputPath": "C:\\WorkSpace\\C#\\Xamarin\\ToDoApp\\ToDoApp\\ToDoApp.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -33,8 +33,8 @@
         "frameworks": {
           "monoandroid11.0": {
             "projectReferences": {
-              "C:\\WorkSpace\\Xamarin\\ToDoApp\\ToDoApp\\ToDoApp\\ToDoApp.csproj": {
-                "projectPath": "C:\\WorkSpace\\Xamarin\\ToDoApp\\ToDoApp\\ToDoApp\\ToDoApp.csproj"
+              "C:\\WorkSpace\\C#\\Xamarin\\ToDoApp\\ToDoApp\\ToDoApp\\ToDoApp.csproj": {
+                "projectPath": "C:\\WorkSpace\\C#\\Xamarin\\ToDoApp\\ToDoApp\\ToDoApp\\ToDoApp.csproj"
               }
             }
           }
@@ -55,14 +55,14 @@
         }
       }
     },
-    "C:\\WorkSpace\\Xamarin\\ToDoApp\\ToDoApp\\ToDoApp\\ToDoApp.csproj": {
+    "C:\\WorkSpace\\C#\\Xamarin\\ToDoApp\\ToDoApp\\ToDoApp\\ToDoApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\WorkSpace\\Xamarin\\ToDoApp\\ToDoApp\\ToDoApp\\ToDoApp.csproj",
+        "projectUniqueName": "C:\\WorkSpace\\C#\\Xamarin\\ToDoApp\\ToDoApp\\ToDoApp\\ToDoApp.csproj",
         "projectName": "ToDoApp",
-        "projectPath": "C:\\WorkSpace\\Xamarin\\ToDoApp\\ToDoApp\\ToDoApp\\ToDoApp.csproj",
+        "projectPath": "C:\\WorkSpace\\C#\\Xamarin\\ToDoApp\\ToDoApp\\ToDoApp\\ToDoApp.csproj",
         "packagesPath": "C:\\Users\\manuel\\.nuget\\packages\\",
-        "outputPath": "C:\\WorkSpace\\Xamarin\\ToDoApp\\ToDoApp\\ToDoApp\\obj\\",
+        "outputPath": "C:\\WorkSpace\\C#\\Xamarin\\ToDoApp\\ToDoApp\\ToDoApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

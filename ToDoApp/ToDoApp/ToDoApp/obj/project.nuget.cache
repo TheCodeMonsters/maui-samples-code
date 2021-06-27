@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NB+g8653hZ1j3+hLNcQh8hDCkzTrhujUhmN1TKmuF8PeY2ddqVSOjylP35Rjn3TwLB/Rp7FCd4GrqbuAtZIqPw==",
+  "dgSpecHash": "0KVLIsRdZ4238yF3NQ2Z4N/Xk7VsgM5+5vo32M2F+F1BbxESLc4DKTnBtmZufl0Y2ZJxdN/l/+aJCOrgDF+l/w==",
   "success": true,
-  "projectFilePath": "C:\\WorkSpace\\Xamarin\\ToDoApp\\ToDoApp\\ToDoApp\\ToDoApp.csproj",
+  "projectFilePath": "C:\\WorkSpace\\C#\\Xamarin\\ToDoApp\\ToDoApp\\ToDoApp\\ToDoApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\manuel\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\manuel\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
