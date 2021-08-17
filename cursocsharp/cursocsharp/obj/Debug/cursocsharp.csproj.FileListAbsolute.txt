@@ -1,0 +1,7 @@
+C:\ManuelDuarte\Task\xamarin_code\cursocsharp\cursocsharp\bin\Debug\cursocsharp.exe.config
+C:\ManuelDuarte\Task\xamarin_code\cursocsharp\cursocsharp\bin\Debug\cursocsharp.exe
+C:\ManuelDuarte\Task\xamarin_code\cursocsharp\cursocsharp\bin\Debug\cursocsharp.pdb
+C:\ManuelDuarte\Task\xamarin_code\cursocsharp\cursocsharp\obj\Debug\cursocsharp.csproj.AssemblyReference.cache
+C:\ManuelDuarte\Task\xamarin_code\cursocsharp\cursocsharp\obj\Debug\cursocsharp.csproj.CoreCompileInputs.cache
+C:\ManuelDuarte\Task\xamarin_code\cursocsharp\cursocsharp\obj\Debug\cursocsharp.exe
+C:\ManuelDuarte\Task\xamarin_code\cursocsharp\cursocsharp\obj\Debug\cursocsharp.pdb
