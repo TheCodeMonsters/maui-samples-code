@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "xpuSgw3UiNTMfZMBY3R6fhyi2jdU+yg2bbaOHVr89qV1e5nO6eVPFjXv3XpBnR5L5nU73FGKrOubwpZQ+ZsWcw==",
+  "dgSpecHash": "fAvBexW/til/y3D2GJbrAmBDTDwdkKtAsynHloYfnSg1snr+/jCRSG4t4BEHng9A24CoYDuKadhIevaz1dEAMA==",
   "success": true,
-  "projectFilePath": "C:\\WorkSpace\\C#\\Xamarin\\Flyout\\Flyout\\Flyout.Android\\Flyout.Android.csproj",
+  "projectFilePath": "C:\\ManuelDuarte\\Task\\xamarin_code\\Flyout\\Flyout\\Flyout.Android\\Flyout.Android.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\manuel\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\cduarte\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.activity\\1.1.0.5\\xamarin.androidx.activity.1.1.0.5.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.annotation\\1.1.0.8\\xamarin.androidx.annotation.1.1.0.8.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.annotation.experimental\\1.0.0.8\\xamarin.androidx.annotation.experimental.1.0.0.8.nupkg.sha512",

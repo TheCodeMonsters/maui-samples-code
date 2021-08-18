@@ -991,24 +991,30 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\manuel\\.nuget\\packages\\": {},
+    "C:\\Users\\cduarte\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\WorkSpace\\C#\\Xamarin\\Flyout\\Flyout\\Flyout.iOS\\Flyout.iOS.csproj",
+      "projectUniqueName": "C:\\ManuelDuarte\\Task\\xamarin_code\\Flyout\\Flyout\\Flyout.iOS\\Flyout.iOS.csproj",
       "projectName": "Flyout.iOS",
-      "projectPath": "C:\\WorkSpace\\C#\\Xamarin\\Flyout\\Flyout\\Flyout.iOS\\Flyout.iOS.csproj",
-      "packagesPath": "C:\\Users\\manuel\\.nuget\\packages\\",
-      "outputPath": "C:\\WorkSpace\\C#\\Xamarin\\Flyout\\Flyout\\Flyout.iOS\\obj\\",
+      "projectPath": "C:\\ManuelDuarte\\Task\\xamarin_code\\Flyout\\Flyout\\Flyout.iOS\\Flyout.iOS.csproj",
+      "packagesPath": "C:\\Users\\cduarte\\.nuget\\packages\\",
+      "outputPath": "C:\\ManuelDuarte\\Task\\xamarin_code\\Flyout\\Flyout\\Flyout.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
+        "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages",
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\manuel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\cduarte\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.2.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -1016,15 +1022,15 @@
         "xamarinios10"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\System\\Components\\Packages": {},
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://packagesource": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\WorkSpace\\C#\\Xamarin\\Flyout\\Flyout\\Flyout\\Flyout.csproj": {
-              "projectPath": "C:\\WorkSpace\\C#\\Xamarin\\Flyout\\Flyout\\Flyout\\Flyout.csproj"
+            "C:\\ManuelDuarte\\Task\\xamarin_code\\Flyout\\Flyout\\Flyout\\Flyout.csproj": {
+              "projectPath": "C:\\ManuelDuarte\\Task\\xamarin_code\\Flyout\\Flyout\\Flyout\\Flyout.csproj"
             }
           }
         }

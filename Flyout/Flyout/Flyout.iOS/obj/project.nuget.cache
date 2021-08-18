@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "X48flSY9GDTa6jZOJVP4o6akfTWevrsOhQPGB4hrWWeyeuNvGppN1EiFBdvt45q8e6vTp94FRFdmqw8/JAdFQA==",
+  "dgSpecHash": "vGcKuziBQgEjWquBz1oA3uwYw6KTWoP65QFaJXOtbRLTMZ2R3vKXEWwymHhhcQRhc6yMqi9pa3gkfwRtj+G59A==",
   "success": true,
-  "projectFilePath": "C:\\WorkSpace\\C#\\Xamarin\\Flyout\\Flyout\\Flyout.iOS\\Flyout.iOS.csproj",
+  "projectFilePath": "C:\\ManuelDuarte\\Task\\xamarin_code\\Flyout\\Flyout\\Flyout.iOS\\Flyout.iOS.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\manuel\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\cduarte\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
   ],
