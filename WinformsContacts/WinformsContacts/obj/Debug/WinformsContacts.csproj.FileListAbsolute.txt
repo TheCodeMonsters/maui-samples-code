@@ -1,0 +1,10 @@
+C:\ManuelDuarte\Task\xamarin_code\WinformsContacts\WinformsContacts\bin\Debug\WinformsContacts.exe.config
+C:\ManuelDuarte\Task\xamarin_code\WinformsContacts\WinformsContacts\bin\Debug\WinformsContacts.exe
+C:\ManuelDuarte\Task\xamarin_code\WinformsContacts\WinformsContacts\bin\Debug\WinformsContacts.pdb
+C:\ManuelDuarte\Task\xamarin_code\WinformsContacts\WinformsContacts\obj\Debug\WinformsContacts.csproj.AssemblyReference.cache
+C:\ManuelDuarte\Task\xamarin_code\WinformsContacts\WinformsContacts\obj\Debug\WinformsContacts.Form1.resources
+C:\ManuelDuarte\Task\xamarin_code\WinformsContacts\WinformsContacts\obj\Debug\WinformsContacts.Properties.Resources.resources
+C:\ManuelDuarte\Task\xamarin_code\WinformsContacts\WinformsContacts\obj\Debug\WinformsContacts.csproj.GenerateResource.cache
+C:\ManuelDuarte\Task\xamarin_code\WinformsContacts\WinformsContacts\obj\Debug\WinformsContacts.csproj.CoreCompileInputs.cache
+C:\ManuelDuarte\Task\xamarin_code\WinformsContacts\WinformsContacts\obj\Debug\WinformsContacts.exe
+C:\ManuelDuarte\Task\xamarin_code\WinformsContacts\WinformsContacts\obj\Debug\WinformsContacts.pdb
