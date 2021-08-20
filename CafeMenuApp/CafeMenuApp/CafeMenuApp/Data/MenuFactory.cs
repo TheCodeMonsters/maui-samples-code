@@ -15,7 +15,7 @@ namespace CafeMenuApp.Data
         {
             MenuList = new List<Food>
             {
-                new Food{Name="Pizza", GroupTitle=Food.GroupName.Eatables},
+                new Food{Name="Pizza",  Desc="lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum", GroupTitle=Food.GroupName.Eatables},
                 new Food{Name="Hamburger", GroupTitle=Food.GroupName.Eatables},
                 new Food{Name="Sandwich", GroupTitle=Food.GroupName.Eatables},
                 new Food{Name="Pancake", GroupTitle=Food.GroupName.Eatables},

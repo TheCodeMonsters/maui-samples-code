@@ -29,3 +29,4 @@ C:\WorkSpace\xamarin_code\CafeMenuApp\CafeMenuApp\CafeMenuApp\obj\Debug\netstand
 C:\WorkSpace\xamarin_code\CafeMenuApp\CafeMenuApp\CafeMenuApp\obj\Debug\netstandard2.0\CafeMenuApp.dll
 C:\WorkSpace\xamarin_code\CafeMenuApp\CafeMenuApp\CafeMenuApp\obj\Debug\netstandard2.0\ref\CafeMenuApp.dll
 C:\WorkSpace\xamarin_code\CafeMenuApp\CafeMenuApp\CafeMenuApp\obj\Debug\netstandard2.0\CafeMenuApp.pdb
+C:\WorkSpace\xamarin_code\CafeMenuApp\CafeMenuApp\CafeMenuApp\obj\Debug\netstandard2.0\CafeMenuApp.csproj.AssemblyReference.cache

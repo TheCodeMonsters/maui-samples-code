@@ -18,6 +18,7 @@
         <StackLayout>
             <Image Source="{Binding ImagePath, Converter={StaticResource converter}}" WidthRequest="450" HeightRequest="300"/>
             <Label Text="{Binding Name}" HorizontalTextAlignment="Center" FontSize="25"/>
+            <Label Text="{Binding Desc}" HorizontalTextAlignment="Center" FontSize="20"/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
