@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "0SgfYjGQcDWG5DWFd/sSIogQfnJgMf7w62xcAnp+JQjJbDIxaAyepq+bvmE0DvN6EL3mu2LAo+aFx9RTOkYQ1g==",
+  "success": true,
+  "projectFilePath": "C:\\WorkSpace\\xamarin_code\\CafeMenuApp\\CafeMenuApp\\CafeMenuApp\\CafeMenuApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\manuel\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\manuel\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\manuel\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\manuel\\.nuget\\packages\\xamarin.essentials\\1.2.0\\xamarin.essentials.1.2.0.nupkg.sha512",
+    "C:\\Users\\manuel\\.nuget\\packages\\xamarin.forms\\5.0.0.2083\\xamarin.forms.5.0.0.2083.nupkg.sha512"
+  ],
+  "logs": []
+}
