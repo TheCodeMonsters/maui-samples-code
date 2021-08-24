@@ -1,24 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "D:\\OakAcademyProjects\\VideoPlayerApp\\VideoPlayerApp\\VideoPlayerApp.iOS\\VideoPlayerApp.iOS.csproj": {}
+    "C:\\WorkSpace\\xamarin_code\\VideoPlayerApp\\VideoPlayerApp\\VideoPlayerApp.iOS\\VideoPlayerApp.iOS.csproj": {}
   },
   "projects": {
-    "D:\\OakAcademyProjects\\VideoPlayerApp\\VideoPlayerApp\\VideoPlayerApp.iOS\\VideoPlayerApp.iOS.csproj": {
+    "C:\\WorkSpace\\xamarin_code\\VideoPlayerApp\\VideoPlayerApp\\VideoPlayerApp.iOS\\VideoPlayerApp.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\OakAcademyProjects\\VideoPlayerApp\\VideoPlayerApp\\VideoPlayerApp.iOS\\VideoPlayerApp.iOS.csproj",
+        "projectUniqueName": "C:\\WorkSpace\\xamarin_code\\VideoPlayerApp\\VideoPlayerApp\\VideoPlayerApp.iOS\\VideoPlayerApp.iOS.csproj",
         "projectName": "VideoPlayerApp.iOS",
-        "projectPath": "D:\\OakAcademyProjects\\VideoPlayerApp\\VideoPlayerApp\\VideoPlayerApp.iOS\\VideoPlayerApp.iOS.csproj",
-        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "D:\\OakAcademyProjects\\VideoPlayerApp\\VideoPlayerApp\\VideoPlayerApp.iOS\\obj\\",
+        "projectPath": "C:\\WorkSpace\\xamarin_code\\VideoPlayerApp\\VideoPlayerApp\\VideoPlayerApp.iOS\\VideoPlayerApp.iOS.csproj",
+        "packagesPath": "C:\\Users\\manuel\\.nuget\\packages\\",
+        "outputPath": "C:\\WorkSpace\\xamarin_code\\VideoPlayerApp\\VideoPlayerApp\\VideoPlayerApp.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\manuel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -26,14 +30,15 @@
           "xamarinios10"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "D:\\OakAcademyProjects\\VideoPlayerApp\\VideoPlayerApp\\VideoPlayerApp\\VideoPlayerApp.csproj": {
-                "projectPath": "D:\\OakAcademyProjects\\VideoPlayerApp\\VideoPlayerApp\\VideoPlayerApp\\VideoPlayerApp.csproj"
+              "C:\\WorkSpace\\xamarin_code\\VideoPlayerApp\\VideoPlayerApp\\VideoPlayerApp\\VideoPlayerApp.csproj": {
+                "projectPath": "C:\\WorkSpace\\xamarin_code\\VideoPlayerApp\\VideoPlayerApp\\VideoPlayerApp\\VideoPlayerApp.csproj"
               }
             }
           }
@@ -52,7 +57,7 @@
             },
             "Xamarin.Forms": {
               "target": "Package",
-              "version": "[4.3.0.947036, )"
+              "version": "[5.0.0.2083, )"
             }
           }
         }
@@ -69,21 +74,24 @@
         }
       }
     },
-    "D:\\OakAcademyProjects\\VideoPlayerApp\\VideoPlayerApp\\VideoPlayerApp\\VideoPlayerApp.csproj": {
+    "C:\\WorkSpace\\xamarin_code\\VideoPlayerApp\\VideoPlayerApp\\VideoPlayerApp\\VideoPlayerApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\OakAcademyProjects\\VideoPlayerApp\\VideoPlayerApp\\VideoPlayerApp\\VideoPlayerApp.csproj",
+        "projectUniqueName": "C:\\WorkSpace\\xamarin_code\\VideoPlayerApp\\VideoPlayerApp\\VideoPlayerApp\\VideoPlayerApp.csproj",
         "projectName": "VideoPlayerApp",
-        "projectPath": "D:\\OakAcademyProjects\\VideoPlayerApp\\VideoPlayerApp\\VideoPlayerApp\\VideoPlayerApp.csproj",
-        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "D:\\OakAcademyProjects\\VideoPlayerApp\\VideoPlayerApp\\VideoPlayerApp\\obj\\",
+        "projectPath": "C:\\WorkSpace\\xamarin_code\\VideoPlayerApp\\VideoPlayerApp\\VideoPlayerApp\\VideoPlayerApp.csproj",
+        "packagesPath": "C:\\Users\\manuel\\.nuget\\packages\\",
+        "outputPath": "C:\\WorkSpace\\xamarin_code\\VideoPlayerApp\\VideoPlayerApp\\VideoPlayerApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\manuel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -91,11 +99,13 @@
           "netstandard2.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
             "projectReferences": {}
           }
         },
@@ -107,6 +117,7 @@
       },
       "frameworks": {
         "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
           "dependencies": {
             "NETStandard.Library": {
               "suppressParent": "All",
@@ -124,7 +135,7 @@
             },
             "Xamarin.Forms": {
               "target": "Package",
-              "version": "[4.3.0.947036, )"
+              "version": "[5.0.0.2083, )"
             }
           },
           "imports": [
@@ -137,7 +148,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
