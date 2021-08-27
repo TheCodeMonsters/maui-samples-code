@@ -11,9 +11,10 @@ namespace CafeMenuApp.Models
         public enum GroupName { Eatables, ColdDrinks, HotDrinks, Desserts }
 
         public string Name { get; set; }
+        public string Desc { get; set; }
         public GroupName GroupTitle { get; set; }
         public int Count { get; set; } = 1;
-        public string ImagePath { get => Name + ".png"; }
+        public string ImagePath { get => Name + Desc + ".png"; }
         public bool Checked
         {
             get => _checked;
