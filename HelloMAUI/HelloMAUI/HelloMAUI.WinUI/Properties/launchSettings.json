@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "HelloMAUI.WinUI": {
+      "commandName": "MsixPackage",
+      "nativeDebugging": false
+    }
+  }
+}
