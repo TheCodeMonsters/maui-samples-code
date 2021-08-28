@@ -10,11 +10,47 @@ namespace HelloMAUI
 			InitializeComponent();
 		}
 
-		int count = 0;
-		private void OnCounterClicked(object sender, EventArgs e)
-		{
-			count++;
-			CounterLabel.Text = $"Current count: {count}";
-		}
+		private void Button_Clicked(object sender, EventArgs e)
+        {
+            if (!string.IsNullOrEmpty(Altura.Text) &&
+                !string.IsNullOrEmpty(Peso.Text))
+            {
+                var altura = double.Parse(Altura.Text);
+                var peso = double.Parse(Peso.Text);
+
+                var imc = peso / (altura * altura);
+                IMC.Text = imc.ToString();
+
+                string resultado = "";
+
+                if (imc < 18.5)
+                {
+                    resultado = "Tienes bajo peso";
+                }
+                else if (imc >= 18.5 && imc <= 24.9)
+                {
+                    resultado = "Tu peso es normal";
+                }
+                else if (imc >= 25 && imc <= 29.9)
+                {
+                    resultado = "Tienes sobrepreso";
+                }
+                else
+                {
+                    resultado = "Tienes obesidad, ¡Cuídate!";
+                }
+
+                DisplayAlert("Resultado", resultado, "Ok");
+            }
+            else
+            {
+                DisplayAlert("Datos erróneos",
+                    "Por favor, llena toda la información",
+                    "Ok");
+            }
+        }
+
+
+
 	}
 }
