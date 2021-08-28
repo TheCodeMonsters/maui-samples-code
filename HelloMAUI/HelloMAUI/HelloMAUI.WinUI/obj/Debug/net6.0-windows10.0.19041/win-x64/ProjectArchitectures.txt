@@ -1,0 +1,1 @@
+C:\WorkSpace\xamarin_code\HelloMAUI\HelloMAUI\HelloMAUI.WinUI\HelloMAUI.WinUI.csproj;neutral

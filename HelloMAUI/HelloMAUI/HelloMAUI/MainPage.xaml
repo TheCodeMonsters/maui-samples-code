@@ -1,0 +1,28 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="HelloMAUI.MainPage">
+
+    <StackLayout VerticalOptions="Center"
+                 HorizontalOptions="Center"
+                 WidthRequest="250">
+        <!-- Place new controls here -->
+        <Label Text="Calcula tu IMC"
+               FontSize="40"
+               HorizontalTextAlignment="Center"
+               TextColor="#565168"/>
+        <Entry Placeholder="Altura" x:Name="Altura"
+               Keyboard="Numeric"
+               
+               />
+        <Entry Placeholder="Peso" x:Name="Peso"
+               Keyboard="Numeric"/>
+        <Entry Placeholder="Tu IMC" x:Name="IMC"
+               IsEnabled="False"/>
+        <Button Text="Calcular" Clicked="Button_Clicked"
+                TextColor="White"
+                HorizontalOptions="CenterAndExpand"
+                BackgroundColor="DarkMagenta"/>
+    </StackLayout>
+
+
+</ContentPage>
