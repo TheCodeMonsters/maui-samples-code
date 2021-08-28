@@ -1,0 +1,17 @@
+C:\WorkSpace\Mobile\Pizza\Pizza\Pizza\bin\Debug\netstandard2.0\Pizza.deps.json
+C:\WorkSpace\Mobile\Pizza\Pizza\Pizza\bin\Debug\netstandard2.0\Pizza.dll
+C:\WorkSpace\Mobile\Pizza\Pizza\Pizza\bin\Debug\netstandard2.0\ref\Pizza.dll
+C:\WorkSpace\Mobile\Pizza\Pizza\Pizza\bin\Debug\netstandard2.0\Pizza.pdb
+C:\WorkSpace\Mobile\Pizza\Pizza\Pizza\obj\Debug\netstandard2.0\Pizza.csproj.AssemblyReference.cache
+C:\WorkSpace\Mobile\Pizza\Pizza\Pizza\obj\Debug\netstandard2.0\Pizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkSpace\Mobile\Pizza\Pizza\Pizza\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\WorkSpace\Mobile\Pizza\Pizza\Pizza\obj\Debug\netstandard2.0\Controls\FerrisLabel.xaml.g.cs
+C:\WorkSpace\Mobile\Pizza\Pizza\Pizza\obj\Debug\netstandard2.0\Controls\PillLabel.xaml.g.cs
+C:\WorkSpace\Mobile\Pizza\Pizza\Pizza\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\WorkSpace\Mobile\Pizza\Pizza\Pizza\obj\Debug\netstandard2.0\Pizza.AssemblyInfoInputs.cache
+C:\WorkSpace\Mobile\Pizza\Pizza\Pizza\obj\Debug\netstandard2.0\Pizza.AssemblyInfo.cs
+C:\WorkSpace\Mobile\Pizza\Pizza\Pizza\obj\Debug\netstandard2.0\Pizza.csproj.CoreCompileInputs.cache
+C:\WorkSpace\Mobile\Pizza\Pizza\Pizza\obj\Debug\netstandard2.0\XamlC.stamp
+C:\WorkSpace\Mobile\Pizza\Pizza\Pizza\obj\Debug\netstandard2.0\Pizza.dll
+C:\WorkSpace\Mobile\Pizza\Pizza\Pizza\obj\Debug\netstandard2.0\ref\Pizza.dll
+C:\WorkSpace\Mobile\Pizza\Pizza\Pizza\obj\Debug\netstandard2.0\Pizza.pdb
